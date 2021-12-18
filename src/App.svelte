@@ -1,0 +1,42 @@
+<script>
+  import recipes from "./recipes";
+  export let name;
+</script>
+
+<main>
+  <h1 class="header">Andrew's Recipes</h1>
+  {#each recipes as recipe}
+    <li>
+      <a target="_blank" href={recipe.url}>
+        {recipe.displayName}
+      </a>
+    </li>
+  {/each}
+</main>
+
+<style>
+  main {
+    padding-left: 8px;
+  }
+
+  .header {
+    color: rgb(55, 115, 245);
+    font-size: 4em;
+    font-weight: 100;
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  a {
+    color: rgb(55, 115, 245);
+  }
+  li {
+    padding: 2px;
+  }
+
+  @media (min-width: 640px) {
+    main {
+      max-width: none;
+    }
+  }
+</style>
