@@ -129,6 +129,18 @@ const recipes = [
     {
         displayName: "Sweet potatoe fries with chili mayo",
         url: "https://imgur.com/a/FbPXZ6s"
+    },
+    {
+        displayName: "Whipped cream",
+        url: "https://pastebin.com/d596vMJh"
+    },
+    {
+        displayName: "Whipped cream",
+        url: "https://pastebin.com/d596vMJh"
+    },
+    {
+        displayName: "White bread in stand mixer",
+        url: "https://www.youtube.com/watch?v=lipLAgZkWN0&t=351s"
     }
 ]
 
