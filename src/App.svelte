@@ -17,6 +17,7 @@
 <style>
   main {
     padding-left: 8px;
+    padding-bottom: 50px;
   }
 
   .header {

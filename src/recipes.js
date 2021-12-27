@@ -137,7 +137,15 @@ const recipes = [
     {
         displayName: "White bread in stand mixer",
         url: "https://www.youtube.com/watch?v=lipLAgZkWN0&t=351s"
+    },
+    {
+        displayName: "Applesauce in instant pot",
+        url: "https://tastesbetterfromscratch.com/instant-pot-applesauce/#recipe"
+    },
+    {
+        displayName: "Chicken/potatoes/green beans in instant pot",
+        url: "https://www.simplylakita.com/instant-pot-chicken-potatoes-green-beans/#recipe"
     }
-]
+];
 
 export default recipes;
