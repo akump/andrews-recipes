@@ -145,6 +145,10 @@ const recipes = [
     {
         displayName: "Chicken/potatoes/green beans in instant pot",
         url: "https://www.simplylakita.com/instant-pot-chicken-potatoes-green-beans/#recipe"
+    },
+    {
+        displayName: "Soft pretzels",
+        url: "https://preppykitchen.com/soft-pretzels-recipe/"
     }
 ];
 

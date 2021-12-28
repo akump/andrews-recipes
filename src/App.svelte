@@ -1,6 +1,5 @@
 <script>
   import recipes from "./recipes";
-  export let name;
 </script>
 
 <main>
