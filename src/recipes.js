@@ -149,6 +149,10 @@ const recipes = [
     {
         displayName: "Soft pretzels",
         url: "https://preppykitchen.com/soft-pretzels-recipe/"
+    },
+    {
+        displayName: "Bagels",
+        url: "https://www.joshuaweissman.com/post/new-york-style-bagels"
     }
 ];
 
