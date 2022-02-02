@@ -20,7 +20,7 @@
   }
 
   .header {
-    color: rgb(55, 115, 245);
+    color: whtie;
     font-size: 4em;
     font-weight: 100;
     margin-top: 0;

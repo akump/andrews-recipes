@@ -153,6 +153,14 @@ const recipes = [
     {
         displayName: "Bagels",
         url: "https://www.joshuaweissman.com/post/new-york-style-bagels"
+    },
+    {
+        displayName: "Veggie dip",
+        url: "https://www.everydaymadefresh.com/best-veggie-dip-ever-2/"
+    },
+    {
+        displayName: "Pizza dough",
+        url: "https://www.delish.com/cooking/recipe-ideas/a24893663/homemade-pizza-recipe/"
     }
 ];
 
