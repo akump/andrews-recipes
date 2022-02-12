@@ -161,6 +161,14 @@ const recipes = [
     {
         displayName: "Pizza dough",
         url: "https://www.delish.com/cooking/recipe-ideas/a24893663/homemade-pizza-recipe/"
+    },
+    {
+        displayName: "Kt's chocolate chip cookies",
+        url: "https://www.seriouseats.com/super-thick-chocolate-chip-cookie-recipe"
+    },
+    {
+        displayName: "Chocolate chip cookies",
+        url: "https://preppykitchen.com/chewy-chocolate-chip-cookies/#recipe"
     }
 ];
 
