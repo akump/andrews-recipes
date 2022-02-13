@@ -169,6 +169,10 @@ const recipes = [
     {
         displayName: "Chocolate chip cookies",
         url: "https://preppykitchen.com/chewy-chocolate-chip-cookies/#recipe"
+    },
+    {
+        displayName: "Beer cheese",
+        url: "https://www.spendwithpennies.com/beer-cheese-dip/#wprm-recipe-container-169972"
     }
 ];
 
