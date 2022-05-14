@@ -173,6 +173,14 @@ const recipes = [
     {
         displayName: "Beer cheese",
         url: "https://www.spendwithpennies.com/beer-cheese-dip/#wprm-recipe-container-169972"
+    },
+    {
+        displayName: "Hot Honey Salmon",
+        url: "https://mikeshothoney.com/blogs/recipes/hot-honey-cedar-plank-salmon"
+    },
+    {
+        displayName: "Boiled eggs",
+        url: "https://www.seriouseats.com/the-secrets-to-peeling-hard-boiled-eggs"
     }
 ];
 
