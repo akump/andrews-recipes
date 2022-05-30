@@ -181,6 +181,14 @@ const recipes = [
     {
         displayName: "Boiled eggs",
         url: "https://www.seriouseats.com/the-secrets-to-peeling-hard-boiled-eggs"
+    },
+    {
+        displayName: "Jam",
+        url: "https://www.allrecipes.com/recipe/38410/strawberry-jam/"
+    },
+    {
+        displayName: "Hamburger buns",
+        url: "https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/"
     }
 ];
 
