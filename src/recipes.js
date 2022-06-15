@@ -189,6 +189,10 @@ const recipes = [
     {
         displayName: "Hamburger buns",
         url: "https://www.allrecipes.com/recipe/233652/homemade-hamburger-buns/"
+    },
+    {
+        displayName: "English muffins",
+        url: "https://preppykitchen.com/english-muffins/"
     }
 ];
 
