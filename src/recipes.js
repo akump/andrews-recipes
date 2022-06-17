@@ -193,6 +193,10 @@ const recipes = [
     {
         displayName: "English muffins",
         url: "https://preppykitchen.com/english-muffins/"
+    },
+    {
+        displayName: "Ice cream sandwiches",
+        url: "https://www.allrecipes.com/article/chef-johns-classic-chocolate-ice-cream-sandwich/"
     }
 ];
 
