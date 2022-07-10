@@ -197,6 +197,14 @@ const recipes = [
     {
         displayName: "Ice cream sandwiches",
         url: "https://www.allrecipes.com/article/chef-johns-classic-chocolate-ice-cream-sandwich/"
+    },
+    {
+        displayName: "Mango salsa",
+        url: "https://cookieandkate.com/fresh-mango-salsa-recipe/"
+    },
+    {
+        displayName: "Chocolate granola",
+        url: "https://www.allrecipes.com/recipe/264951/chef-johns-chocolate-granola/"
     }
 ];
 
