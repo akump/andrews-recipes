@@ -205,6 +205,18 @@ const recipes = [
     {
         displayName: "Chocolate granola",
         url: "https://www.allrecipes.com/recipe/264951/chef-johns-chocolate-granola/"
+    },
+    {
+        displayName: "Ricotta",
+        url: "https://www.allrecipes.com/recipe/284000/chef-johns-homemade-ricotta-cheese/"
+    },
+    {
+        displayName: "Creamy garlic shrimp",
+        url: "https://littlesunnykitchen.com/garlic-shrimp-pasta/"
+    },
+    {
+        displayName: "Chipotle chicken",
+        url: "https://barefeetinthekitchen.com/chipotle-chicken-marinade/#wprm-recipe-container-22001"
     }
 ];
 
