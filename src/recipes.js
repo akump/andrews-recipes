@@ -217,6 +217,18 @@ const recipes = [
     {
         displayName: "Chipotle chicken",
         url: "https://barefeetinthekitchen.com/chipotle-chicken-marinade/#wprm-recipe-container-22001"
+    },
+    {
+        displayName: "Beef stew",
+        url: "https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew"
+    },
+    {
+        displayName: "Vanilla bundt cake",
+        url: "https://preppykitchen.com/vanilla-bundt-cake/"
+    },
+    {
+        displayName: "Cider",
+        url: "https://www.gimmesomeoven.com/homemade-apple-cider/"
     }
 ];
 

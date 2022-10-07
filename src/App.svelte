@@ -28,7 +28,7 @@
   }
 
   a {
-    color: rgb(55, 115, 245);
+    color: #CCCCCC;
   }
   li {
     padding: 2px;
