@@ -229,6 +229,10 @@ const recipes = [
     {
         displayName: "Cider",
         url: "https://www.gimmesomeoven.com/homemade-apple-cider/"
+    },
+    {
+        displayName: "Beef and brocc slow cooker",
+        url: "https://tasty.co/recipe/slow-cooker-beef-and-broccoli"
     }
 ];
 
