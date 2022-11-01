@@ -233,6 +233,10 @@ const recipes = [
     {
         displayName: "Beef and brocc slow cooker",
         url: "https://tasty.co/recipe/slow-cooker-beef-and-broccoli"
+    },
+    {
+        displayName: "Panko chicken",
+        url: "https://www.allrecipes.com/recipe/239428/crispy-panko-chicken-breasts/"
     }
 ];
 
