@@ -237,6 +237,10 @@ const recipes = [
     {
         displayName: "Panko chicken",
         url: "https://www.allrecipes.com/recipe/239428/crispy-panko-chicken-breasts/"
+    },
+    {
+        displayName: "Whole turkey",
+        url: "https://foodwishes.blogspot.com/2011/11/kiss-turkey.html"
     }
 ];
 
