@@ -241,6 +241,10 @@ const recipes = [
     {
         displayName: "Whole turkey",
         url: "https://foodwishes.blogspot.com/2011/11/kiss-turkey.html"
+    },
+    {
+        displayName: "Oven crisp fries",
+        url: "https://www.youtube.com/watch?v=MvnYBCDaEKU"
     }
 ];
 
