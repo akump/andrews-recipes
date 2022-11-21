@@ -245,7 +245,15 @@ const recipes = [
     {
         displayName: "Oven crisp fries",
         url: "https://www.youtube.com/watch?v=MvnYBCDaEKU"
-    }
+    },
+    {
+        displayName: "Vietnamese spring roll",
+        url: "https://www.loveandlemons.com/spring-rolls/"
+    },
+    {
+        displayName: "Meringue cookies",
+        url: "https://preppykitchen.com/meringue-cookies/#recipe"
+    },
 ];
 
 export default recipes;
