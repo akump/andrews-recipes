@@ -127,7 +127,7 @@ const recipes = [
         url: "https://imgur.com/a/nic88LA"
     },
     {
-        displayName: "Sweet potatoe fries with chili mayo",
+        displayName: "Sweet potato fries with chili mayo",
         url: "https://imgur.com/a/FbPXZ6s"
     },
     {
