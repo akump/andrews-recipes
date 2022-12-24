@@ -254,6 +254,14 @@ const recipes = [
         displayName: "Meringue cookies",
         url: "https://preppykitchen.com/meringue-cookies/#recipe"
     },
+    {
+        displayName: "Black forest cake",
+        url: "https://preppykitchen.com/1479-2/"
+    },
+    {
+        displayName: "Bruschetta",
+        url: "https://www.allrecipes.com/recipe/54165/balsamic-bruschetta/"
+    },
 ];
 
 export default recipes;
