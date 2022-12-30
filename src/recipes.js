@@ -262,6 +262,18 @@ const recipes = [
         displayName: "Bruschetta",
         url: "https://www.allrecipes.com/recipe/54165/balsamic-bruschetta/"
     },
+    {
+        displayName: "Braised chicken thighs",
+        url: "https://www.delish.com/cooking/recipe-ideas/a30503020/braised-chicken-thighs-recipe/"
+    },
+    {
+        displayName: "Pita",
+        url: "https://www.allrecipes.com/recipe/232719/chef-johns-pita-bread/"
+    },
+    {
+        displayName: "Hummus",
+        url: "https://www.youtube.com/watch?v=6feitxp3gMQ"
+    },
 ];
 
 export default recipes;

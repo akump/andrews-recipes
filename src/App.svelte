@@ -1,10 +1,11 @@
 <script>
   import recipes from "./recipes";
+  let reversedRecipes = recipes.reverse();
 </script>
 
 <main>
   <h1 class="header">Andrew's Recipes</h1>
-  {#each recipes as recipe}
+  {#each reversedRecipes as recipe}
     <li>
       <a target="_blank" href={recipe.url}>
         {recipe.displayName}
