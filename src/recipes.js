@@ -275,7 +275,7 @@ const recipes = [
         url: "https://www.youtube.com/watch?v=6feitxp3gMQ"
     },
     {
-        displayName: "Mascarpoen",
+        displayName: "Mascarpone",
         url: "https://www.allrecipes.com/recipe/8451392/homemade-mascarpone-cheese/"
     },
 ];
