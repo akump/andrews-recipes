@@ -29,7 +29,7 @@
   }
 
   a {
-    color: #CCCCCC;
+    color: #cccccc;
   }
   li {
     padding: 2px;
