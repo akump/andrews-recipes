@@ -278,6 +278,11 @@ const recipes = [
         displayName: "Mascarpone",
         url: "https://www.allrecipes.com/recipe/8451392/homemade-mascarpone-cheese/"
     },
+    {
+        displayName: "Malfatti",
+        url: "https://www.greatitalianchefs.com/recipes/malfatti-recipe-tomato-sauce"
+    },
+
 ];
 
 export default recipes;
