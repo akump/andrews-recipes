@@ -282,7 +282,18 @@ const recipes = [
         displayName: "Malfatti",
         url: "https://www.greatitalianchefs.com/recipes/malfatti-recipe-tomato-sauce"
     },
-
+    {
+        displayName: "Cacio e pepe",
+        url: "https://www.seriouseats.com/spaghetti-cacio-e-pepe-recipe"
+    },
+    {
+        displayName: "Stromboli",
+        url: "https://thestayathomechef.com/stromboli/"
+    },
+    {
+        displayName: "Stromboli/calzone sauce",
+        url: "https://i.imgur.com/EVUKWzd.jpg"
+    },
 ];
 
 export default recipes;
