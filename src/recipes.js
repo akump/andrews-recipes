@@ -294,6 +294,10 @@ const recipes = [
         displayName: "Stromboli/calzone sauce",
         url: "https://i.imgur.com/EVUKWzd.jpg"
     },
+    {
+        displayName: "Soy glazed chicken",
+        url: "https://tiffycooks.com/soy-glazed-chicken-20-minutes-only/"
+    },
 ];
 
 export default recipes;
