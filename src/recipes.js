@@ -33,7 +33,7 @@ const recipes = [
     },
     {
         displayName: "Chocolate fondue",
-        url: "https://www.simplyrecipes.com/recipes/chocolate_fondue/"
+        url: "https://www.melskitchencafe.com/perfect-chocolate-fondue/"
     },
     {
         displayName: "Coq au vin fondue",
@@ -297,6 +297,14 @@ const recipes = [
     {
         displayName: "Soy glazed chicken",
         url: "https://tiffycooks.com/soy-glazed-chicken-20-minutes-only/"
+    },
+    {
+        displayName: "Cheese fondue",
+        url: "https://www.allrecipes.com/recipe/283561/classic-cheese-fondue/"
+    },
+    {
+        displayName: "Chipotle barbacoa",
+        url: "https://pastebin.com/qZ2RJ112"
     },
 ];
 
