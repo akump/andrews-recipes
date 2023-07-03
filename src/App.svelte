@@ -1,17 +1,39 @@
 <script>
-  import recipes from "./recipes";
-  let reversedRecipes = recipes.reverse();
+  import { Tabs, Tab, TabList, TabPanel } from "svelte-tabs";
+  import Recipes from "./Recipes.svelte";
+
+  function search() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+      a = li[i].getElementsByTagName("a")[0];
+      txtValue = a.textContent || a.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        li[i].style.display = "";
+      } else {
+        li[i].style.display = "none";
+      }
+    }
+  }
 </script>
 
 <main>
   <h1 class="header">Andrew's Recipes</h1>
-  {#each reversedRecipes as recipe}
-    <li>
-      <a target="_blank" href={recipe.url}>
-        {recipe.displayName}
-      </a>
-    </li>
-  {/each}
+  <Tabs>
+    <TabList>
+      <Tab>Recipes</Tab>
+      <Tab>Other things</Tab>
+    </TabList>
+    <TabPanel>
+      <Recipes />
+    </TabPanel>
+    <TabPanel>
+      <div>Coming soon...</div>
+    </TabPanel>
+  </Tabs>
 </main>
 
 <style>
@@ -26,13 +48,6 @@
     font-weight: 100;
     margin-top: 0;
     margin-bottom: 1rem;
-  }
-
-  a {
-    color: #cccccc;
-  }
-  li {
-    padding: 2px;
   }
 
   @media (min-width: 640px) {
