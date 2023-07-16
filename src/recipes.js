@@ -273,7 +273,7 @@ const recipes = [
   },
   {
     displayName: "Hummus",
-    url: "https://www.youtube.com/watch?v=6feitxp3gMQ",
+    url: "https://www.youtube.com/shorts/9JUo6-cYbc4",
   },
   {
     displayName: "Mascarpone",
@@ -370,6 +370,10 @@ const recipes = [
   {
     displayName: "Hollandaise",
     url: "https://www.seriouseats.com/foolproof-2-minute-hollandaise-recipe",
+  },
+  {
+    displayName: "Pork belly bao",
+    url: "https://themeatmen.sg/kong-bak-pau-braised-pork-buns/",
   },
 ];
 
