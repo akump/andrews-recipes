@@ -383,6 +383,14 @@ const recipes = [
     displayName: "Chicken tinga",
     url: "https://www.youtube.com/watch?v=DqTsb9N3cqY",
   },
+  {
+    displayName: "Teriyaki Sauce",
+    url: "https://www.youtube.com/watch?v=XKN9y5i7ZP8",
+  },
+  {
+    displayName: "Crackers",
+    url: "https://www.youtube.com/watch?v=z5oetzEMNqk",
+  },
 ];
 
 export default recipes;
