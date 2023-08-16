@@ -375,6 +375,14 @@ const recipes = [
     displayName: "Pork belly bao",
     url: "https://themeatmen.sg/kong-bak-pau-braised-pork-buns/",
   },
+  {
+    displayName: "Stir fry sauce",
+    url: "https://www.forkinthekitchen.com/stir-fry-sauce-recipe/#recipe",
+  },
+  {
+    displayName: "Chicken tinga",
+    url: "https://www.youtube.com/watch?v=DqTsb9N3cqY",
+  },
 ];
 
 export default recipes;
