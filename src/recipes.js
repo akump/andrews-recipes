@@ -221,7 +221,7 @@ const recipes = [
   },
   {
     displayName: "Beef stew",
-    url: "https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew",
+    url: "https://www.onceuponachef.com/recipes/beef-stew-with-carrots-potatoes.html",
   },
   {
     displayName: "Vanilla bundt cake",
@@ -388,8 +388,12 @@ const recipes = [
     url: "https://www.youtube.com/watch?v=XKN9y5i7ZP8",
   },
   {
-    displayName: "Crackers",
-    url: "https://www.youtube.com/watch?v=z5oetzEMNqk",
+    displayName: "Drunken noodles",
+    url: "https://www.joshuaweissman.com/post/the-easiest-stir-fry-dish-drunken-noodles",
+  },
+  {
+    displayName: "Pumpkin bread",
+    url: "https://cookieandkate.com/healthy-pumpkin-bread-recipe/",
   },
 ];
 
