@@ -395,6 +395,10 @@ const recipes = [
     displayName: "Pumpkin bread",
     url: "https://cookieandkate.com/healthy-pumpkin-bread-recipe/",
   },
+  {
+    displayName: "Farro",
+    url: "https://imgur.com/a/QSzJGsC",
+  },
 ];
 
 export default recipes;
