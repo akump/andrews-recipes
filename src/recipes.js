@@ -399,6 +399,10 @@ const recipes = [
     displayName: "Farro",
     url: "https://imgur.com/a/QSzJGsC",
   },
+  {
+    displayName: "Homemade pasta",
+    url: "https://www.loveandlemons.com/homemade-pasta-recipe/#wprm-recipe-container-47208",
+  },
 ];
 
 export default recipes;
