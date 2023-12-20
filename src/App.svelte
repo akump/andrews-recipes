@@ -2,6 +2,9 @@
   import { Tabs, Tab, TabList, TabPanel } from "svelte-tabs";
   import Recipes from "./Recipes.svelte";
   import Other from "./Other.svelte";
+  import recipes from "./recipes";
+
+  let reversedRecipes = recipes.reverse();
 </script>
 
 <main>
@@ -12,7 +15,7 @@
       <Tab>Other things</Tab>
     </TabList>
     <TabPanel>
-      <Recipes />
+      <Recipes recipes={reversedRecipes} />
     </TabPanel>
     <TabPanel>
       <Other />

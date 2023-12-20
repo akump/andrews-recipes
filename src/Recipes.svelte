@@ -1,7 +1,5 @@
 <script>
-  import recipes from "./recipes";
-
-  let reversedRecipes = recipes.reverse();
+  export let recipes;
 
   function search() {
     var input, filter, ul, li, a, i, txtValue;
@@ -29,7 +27,7 @@
   title="Type in a recipe"
 />
 <ul id="myUL">
-  {#each reversedRecipes as recipe}
+  {#each recipes as recipe}
     <li id="recipeList">
       <a target="_blank" href={recipe.url}>
         {recipe.displayName}
