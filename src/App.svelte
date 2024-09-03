@@ -2,9 +2,9 @@
   import { Tabs, Tab, TabList, TabPanel } from "svelte-tabs";
   import Recipes from "./Recipes.svelte";
   import Other from "./Other.svelte";
-  import recipes from "./recipes";
+  import recipes from "./recipes.json";
 
-  let reversedRecipes = recipes.reverse();
+  let reversedRecipes = recipes.data.reverse();
 </script>
 
 <main>
