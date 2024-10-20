@@ -6,8 +6,8 @@ const readlineInterface = readline.createInterface({
   output: process.stdout,
 });
 
-readlineInterface.question("URL:", (url) => {
-  readlineInterface.question("Display name:", (displayName) => {
+readlineInterface.question("URL: ", (url) => {
+  readlineInterface.question("Display name: ", (displayName) => {
     readFile("./src/recipes.json", function (err, data) {
       const json = JSON.parse(data);
       json.data.push({
